@@ -161,8 +161,8 @@ nav a{
 	background-color:#FFF !important;
 }
 
-.story {
-    max-width: 640px;
+.intro {
+    max-width: 740px;
     text-align: center;
     margin: 0 auto;
 }
@@ -227,6 +227,11 @@ nav a{
 
 #bloc-b {
     margin-top: -120px;
+}
+
+.story {
+    margin-top: -20px;
+
 }
 
 /* Bloc image backgrounds */
@@ -494,6 +499,11 @@ iframe{
     #hero-bloc h3{
         font-size:25px;
     }
+
+    .aud h3 {
+        font-size: 0.8em;
+    }
+
     .bloc{
         padding-left: 0; 
         padding-right: 0;  
