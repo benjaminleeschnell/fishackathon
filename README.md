@@ -1,4 +1,4 @@
-# fishackathon
+# fishackathon 2015
 
 Our mission is to connect consumers with healthy, sustainable, fresh foods. We will achieve this by aggregating producers and providers of sustainable food by geographic market.
 
